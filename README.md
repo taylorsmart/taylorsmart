@@ -24,21 +24,25 @@ If you are a recruiting for an early engineer or PM to join your startup, checko
 ---
 
 👯 **Collaboration Interests**
+
 Financial Software | Health and Wearables | Autonomous Vehicle Development and Testing | Artificial Intelligence 
 
 ---
 
-⌨️  **Technical Expertise **
+⌨️  **Technical Expertise**
+
 JavaScript | TypeScript | Python | Java | TensorFlow | React | NextJS | Redux | Tailwind CSS | Node.js | Express | PostgreSQL | MySQL | MongoDB | Docker | AWS | NGINX
 
 ---
 
-🔋 **Product Expertise**
+🔋  **Product Expertise**
+
 Roadmap Planning | Agile Methodology | Behavioral Science | Risk Assessment | User Testing & Analysis | Wireframing | Jira + Confluence | Stakeholder Pitching | Product Release Management
 
 ---
 
-🌱 **What I advocate**
+🌱  **What I advocate**
+
 - Regularly stepping back from feature driven mindset appropriately evaluating engineering tradeoffs
 - Beautiful design and user experience.
 - Strong pertinent test suites.
@@ -47,8 +51,10 @@ Roadmap Planning | Agile Methodology | Behavioral Science | Risk Assessment | Us
 
 ---
 
-🎉  **Hobbies** 
+🎉   **Hobbies** 
+
 Creative Writing | Autonomous Vehicles | Backpacking | Art (Creating & Appreciating) | Frisbee Golf 
 
-🎧  **Podcasts** 
+🎧   **Podcasts** 
+
 Exponent | A16Z | Stratechery | Invest like the Best | Economist Radio | TechCrunch
