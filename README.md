@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi!
-
 I'm a product focused full stack engineer with experience developing and managing software products trusted by millions of users across the world.  
 
 I'm passionate about engineering products that optimize for user experience and which provide daily value to users lives.  With my formal training in Behavioral Science, years of Product Management experience, and passion for engineering and leading with a growth mindset, I closely straddle the line between Engineer and Product.
